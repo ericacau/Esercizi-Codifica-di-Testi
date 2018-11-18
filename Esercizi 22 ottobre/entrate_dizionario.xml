@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc xml:lang="it">
+            <titleStmt>
+                <title>Il mio dizionario</title>
+                <author>Erica Cau</author>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry n="1">
+                <form type = "lemma">
+                    <orth>lessicografo</orth>
+                    <pron notation = "ipa">lessi'kografo</pron>
+                    <syll>les|si|cò|gra|fo</syll>
+                </form>
+                <gramGrp>
+                    <pos>s.</pos>
+                    <gen>m.</gen>
+                </gramGrp>
+                <etym>dal
+                    <lang>greco tardo</lang>
+                    <mentioned>λεξικογράϕος</mentioned>, composto di 
+                    <mentioned>λεξικόν</mentioned> ossia
+                    <gloss>"lessico"</gloss> e 
+                    <mentioned>γράϕος</mentioned> ovvero 
+                    <gloss>"-grafo"</gloss>
+                </etym>
+                <sense n="s1">
+                    <usg type = "dom">(linguistica)</usg>
+                    <def>chi si occupa di lessicografia</def>
+                    <cit type = "example">
+                        <quote>Francesco Sabatini è un linguista, lessicografo e presidente onorario dell'Accademia della Crusca</quote>
+                    </cit>
+                </sense>
+                <sense n="s2">
+                    <def>Colui che contribuisce alla compilazione di un dizionario</def>
+                    <cit type="example">
+                        <quote>Tullio de Mauro è stato un lessicografo</quote>
+                    </cit>
+                    <xr type = "syn">
+                        <ref>dizionarista</ref>
+                    </xr>
+                    <xr type ="syn">
+                        <ref>vocabolarista</ref>
+                    </xr>
+                    <re>
+                        <form>
+                            <orth>lessicografia</orth>
+                        </form>
+                        <sense>
+                            <def>branca della linguistica che studia la tecnica di compilazione di dizionari e lessici, adeguandola alla nascita di nuovi arcaismi e neologismi</def>
+                        </sense>
+                    </re>
+                    <re>
+                        <form>
+                            <orth>lessicale</orth>
+                        </form>
+                        <sense>
+                            <def>relativo al lessico</def>
+                        </sense>
+                    </re>
+                    <re>
+                        <form>
+                            <orth>lessico</orth>
+                        </form>
+                        <sense>
+                            <def>insieme di parole e locuzioni proprie di una lingua</def>
+                        </sense>
+                    </re>
+                    <re>
+                        <form>
+                            <orth>lessicografico</orth>
+                        </form>
+                        <sense>
+                            <def>che concerne la lessicografia</def>
+                        </sense>
+                    </re>
+                    <re>
+                        <form>
+                            <orth>lessicologia</orth>
+                        </form>
+                        <sense>
+                            <def>parte della linguistica che si occupa dello studio delle parole, delle loro relazioni e della struttura del lessico specialmente dal punto di vista storico</def>
+                        </sense>
+                    </re>
+                    <re>
+                        <form>
+                            <orth>lessicologico</orth>
+                        </form>
+                        <sense>
+                            <def>che concerne la lessicologia</def>
+                        </sense>
+                    </re>
+                    <re>
+                        <form>
+                            <orth>lessicologo</orth>
+                        </form>
+                        <sense>
+                            <def>esperto in lessicologia</def>
+                        </sense>
+                    </re>
+                </sense>
+            </entry>
+            <entry n="2">
+                <form type="lemma">
+                    <orth>dizionarista</orth>
+                    <pron notation="ipa">/dittsjonaˈrista</pron>
+                    <syll>di|zio|na|ri|sta</syll>
+                </form>
+                <gramGrp>
+                    <pos>s.</pos>
+                    <gen>m./f.</gen>
+                </gramGrp>
+                <etym>da 
+                    <mentioned>dizionario</mentioned> ed 
+                    <mentioned>-ista</mentioned>
+                </etym>
+                <sense n="1">
+                    <usg type = "dom">professione</usg>
+                    <def>chi redige un dizionario</def>
+                    <xr type="syn">
+                        <ref>lessicografo</ref>
+                    </xr>
+                    <xr type = "syn">
+                        <ref>vocabolarista</ref>
+                    </xr>
+                </sense>
+            </entry>
+            <entry n="3">
+                <form type="lemma">
+                    <orth>vocabolarista</orth>
+                    <pron notation="ipa">/vokabolaˈrista/</pron>
+                    <syll>vo|ca|bo|la|ri|sta</syll>
+                </form>
+                <gramGrp>
+                    <pos>s.</pos>
+                    <gen>m./f.</gen>
+                </gramGrp>
+                <etym>deriva da 
+                    <mentioned>vocabolario</mentioned>
+                </etym>
+                <sense n="1">
+                    <usg type = "dom">professione</usg>
+                    <def>chi compone un vocabolario</def>
+                </sense>
+            </entry>
+            <entry n="4">
+                <form type = "lemma">
+                    <orth>vocabolista</orth>
+                    <syll>vo|ca|bo|lì|sta</syll>
+                </form>
+                <gramGrp>
+                    <pos>s.</pos>
+                    <gen>m./f.</gen>
+                </gramGrp>
+                <etym>deriva da 
+                    <mentioned>vocabolo</mentioned>
+                </etym>
+                <sense n="1">
+                    <def>insieme di vocaboli</def>
+                </sense>
+            </entry>
+        </body>
+    </text>
+</TEI>
