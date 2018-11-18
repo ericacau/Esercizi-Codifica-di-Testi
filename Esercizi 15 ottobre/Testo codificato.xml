@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI SYSTEM "tei_lite.dtd"> 
+<!DOCTYPE TEI SYSTEM "tei_all.dtd"> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> 
 	<teiHeader xml:lang="en">
 		<fileDesc>
-			<titleStmt>
+			<titleStmt>	
 				<title>Mad Kestrel (electronic form)</title>
 				<respStmt>
 					<resp>TEI version by</resp>
@@ -13,7 +13,10 @@
 			<publicationStmt>
 				<publisher>Reissue Edition</publisher>
 				<date>2018</date>
-				<availability>"All rights reserved"</availability>
+				<idno>ISBN 978-1-62268-136-5</idno>
+				<availability>
+					<licence>"All rights reserved"</licence>
+				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl>
@@ -21,6 +24,7 @@
 					<author>Misty Massey</author>
 					<publisher>Tom Doherty Associates, Inc.</publisher>
 					<date>2009</date>
+					<idno>9780765318022</idno>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -30,9 +34,10 @@
 			<div n = "chapter_1" type = "chapter">
 				<head>Chapter 1</head>
 				<epigraph>
-					<quote>And now the storm blast came, and he Was tyrannous and strong; He struck with his o’ertaking wings And chas’d us south along.
-					</quote>
-					<ref>SAMUEL TAYLOR COLERIDGE</ref>
+					<q>And now the storm blast came, and he Was tyrannous and strong; He struck with his o’ertaking wings And chas’d us south along.</q>
+					<bibl>
+						<author>SAMUEL TAYLOR COLERIDGE</author>
+					</bibl>
 				</epigraph> 
 				<p>
 					Cold waves splashed across the railings, nearly knocking Kestrel over. She gripped the wet wood tighter, squinting into the rain-whipped darkness. Lightning split the sky, and Kestrel began counting under her breath. One . . . two . . . three . . . four . . . Thunder rumbled suddenly, loud and gut-shaking, but one second farther away than it had been moments ago. She breathed out in relief. Whether they were outrunning the storm or it them, they were finally on the safe side.
