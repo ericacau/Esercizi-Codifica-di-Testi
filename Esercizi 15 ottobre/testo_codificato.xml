@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>	
+				<title>Mad Kestrel (electronic form)</title>
+				<respStmt>
+					<resp>TEI version by</resp>
+					<name>Erica Cau</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Reissue Edition</publisher>
+				<date>2018</date>
+				<idno>ISBN 978-1-62268-136-5</idno>
+				<availability>
+					<licence>"All rights reserved"</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Mad Kestrel</title>
+					<author>Misty Massey</author>
+					<publisher>Tom Doherty Associates, Inc.</publisher>
+					<date>2009</date>
+					<idno>9780765318022</idno>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader> 
+	<text> 
+		<body>
+			<div n = "chapter_1" type = "chapter">
+				<head>Chapter 1</head>
+				<epigraph>
+					<q>And now the storm blast came, and he Was tyrannous and strong; He struck with his o’ertaking wings And chas’d us south along.</q>
+					<bibl>
+						<author>SAMUEL TAYLOR COLERIDGE</author>
+					</bibl>
+				</epigraph> 
+				<p>
+					Cold waves splashed across the railings, nearly knocking Kestrel over. She gripped the wet wood tighter, squinting into the rain-whipped darkness. Lightning split the sky, and Kestrel began counting under her breath. One . . . two . . . three . . . four . . . Thunder rumbled suddenly, loud and gut-shaking, but one second farther away than it had been moments ago. She breathed out in relief. Whether they were outrunning the storm or it them, they were finally on the safe side.
+				</p>
+				<p>
+					The storm had been a killer, whirling out of the night like some giant beast and taking the crew of the pirate sloop Wolfshead completely by surprise. If they’d only changed course, they might have been able to skirt its edges, but the captain was insistent. Changing course would put them an extra day away from their destination, and he refused to consider any delay.
+				</p>
+				<p>
+					They trimmed the sails and battened down to ride out the fury. Sheer luck that they’d lost none of the men over the side. As soon as the weather began to ease, she relieved as many as she could afford to. Some of them had tucked themselves into their hammocks for the night, the rest were belowdecks cleaning up and resecuring crates and barrels that had shaken loose.
+				</p>
+				<p>
+					<q>“Kestrel! Get up here!”</q>
+				</p>
+				<p>
+					The captain’s bellow was a beacon through the pounding rain and roaring wind. Kestrel moved cautiously across the main deck to the bow, grabbing lines as she went to steady herself. She’d kicked her boots off below long before the rain started. Her toes had gone numb, so she stepped carefully across the slick deck. The worst of the weather was over, but the sloop was still a bucking horse in the wild seas the storm had churned up.
+				</p>
+				<p>
+					<q>“Kestrel! Damn your eyes, where’ve you got to?”</q> Captain Artemus Binns was holding the wheel with both hands, his big arms straining to keep it steady. He shook his head, flinging rain-soaked strands of his gray hair out of his face, and caught sight of his quartermaster. “Nice to see you, lass,” he yelled.<q>“For a time there, she was fightin’ me so hard I almost thought she wanted to go to the deeps.”</q>
+				</p>
+				<p>
+					<q>“Need me to spell you for a while?”</q> She reached for the wheel, but he didn’t let go.
+				</p>
+				<p>
+					<q>“Storm’s easin’ up. I can handle her fine. Unless you think you can whistle me up a prevailin’ current?”</q>
+				</p>
+				<p>
+					Kestrel glanced around, but no one was close enough to have overheard. <q>“Artie!”</q> she scolded.
+				</p>
+				<p>
+					He laughed. <q>“Just toyin’ with you, my girl. I thought I saw somethin’. Be my eyes,”</q> he said, turning his chin toward the long brass scope tucked under his left arm.
+				</p>
+				<p>
+					Kestrel took the scope, slipped behind him, and braced herself against his broad back. <q>“Where am I looking?”</q> 
+				</p>
+				<p>
+					<q>“To starboard.”</q>
+				</p>
+				<p>
+					<q>“And I should see what?”</q>
+				</p>
+				<p> 
+					<q>“Another ship.”</q>
+				</p> 
+				<p>
+					<q>“Is she foundering?”</q>
+				</p> 
+				<p>
+					<q>“Nay, I think not. I’m not in the business of rescuin’ anyway.”</q> He grinned. <q>“Tell me whose colors she’s raised, if any.”</q>
+				</p>
+				<p> 
+					<q>“Aye, Captain.”</q> Pushing her black braids away from her face, she raised the scope to her eye and peered into the distance. The Wolfshead was still rocking hard up and down, her timbers groaning in an eerie music Kestrel knew well. Rain had smeared the telescope lens, but neither that nor the rolling seas disguised what she saw.
+				</p>
+				<p>A huge three-master, painted black and red, with vast red sails, matched their course. She cut the choppy water smoothly, looking for all the world like a queen making her entrance. The flag fluttering heavily from atop the ship was a red field with a black flaming eye.
+				</p>
+				<p> 
+					<q>“Damn, Artie, she’s sporting twenty gunports on this side alone. Fancy painted or no, she’s a powerful beast.”</q>
+				</p>
+				<p>
+					<q>“Can you see her crew?”</q>
+				</p>
+				<p>
+					<q>“Aye. Fellow on the quarterdeck appears to think he’s in charge.”</q>
+				</p> 
+				<p>
+					He was tall, his honey-gold hair flying loose in the breeze, mimicking the flap of the dark cloak that hung from his broad shoulders. His legs were wrapped in boots that came halfway up his thighs, and a glint of steel winked from his hip. One foot was propped on the railing. He stared into the distance, looking like a posed painting.
+				</p>
+				<p>
+					Suddenly he turned his face in her direction. Very handsome, as far as she could tell from the distance, with a devilish cast to his smile. Stepping down from the railing, he crossed his arms and squared his chest, staring at her so intently that she grew uncomfortable. It was as if he could see her, out here in the dark, without a glass to aid him. Cocking one hand rakishly on his hip, he raised the other in front of him, making a “come here” waggle with his finger. Kestrel’s eyes widened. Slowly she dropped the glass to her side.
+				</p>
+				<p>
+					<q>“Well? Whose colors is she flyin’?”</q>
+				</p>
+				<p>
+					Kestrel swallowed. <q>“No colors I’ve seen before, Artie. I’d have called her a merchant ship, except she’s armed to the teeth. If she’s a warship, she doesn’t belong to any navy I’ve heard of. And that captain of hers turns my stomach.”</q>
+				</p>
+				<p> 
+					<q>“The captain?”</q> he asked. <q>“What’s wrong with him?”</q>
+				</p>
+				<p> Without the glass, the ship was a shadowy bulk in the water, the people aboard only moving shapes with no way to distinguish them. So why did she still feel that bold stare, like an unwelcome touch on her skin? She could think of only one reason the other vessel’s captain could see her so well without a spyglass. Or stayed so dry.
+				</p>
+				<p>
+					She didn’t fear much of anything, but magic, and the men who practiced it, made her skin crawl. Popular rumor insisted the magi never set foot off land, one of her prime reasons for choosing a life on the water. But rumor had been proven wrong before.
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
