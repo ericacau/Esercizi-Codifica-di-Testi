@@ -1,5 +1,3 @@
-<!-- DTD.dtd valida testdtd.xml -->
-
 <!ELEMENT TEI (header, facsimile?, text+)>
 
 <!ELEMENT header (#PCDATA)>
