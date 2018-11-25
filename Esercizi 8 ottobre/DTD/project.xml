@@ -3,6 +3,6 @@
 
 <TEI>
     <header>intestazione</header>
-    <facsimile source ="jdn.cm"></facsimile>
-    <text id = "ID">gvgv</text>
+    <facsimile source ="immagine.jpg"></facsimile>
+    <text id = "ID">Testo di prova</text>
 </TEI>
