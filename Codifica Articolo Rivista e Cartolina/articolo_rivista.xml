@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns = "http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nobel 2018: "Così abbiamo capito come battere il cancro" - versione elettronica</title>
+                <author>Daniela Minerva</author>
+                <respStmt>
+                    <resp>Edizione digitale e conversione TEI P5 a cura di:</resp>
+                        <name>Erica Cau</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Edizione TEI P5
+                    <date>9 dicembre 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Repubblica.it</publisher>
+                <date>6 dicembre 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="article">
+                    <title level="a">Nobel 2018: "Così abbiamo capito come battere il cancro" - versione elettronica</title>
+                    <author>Daniela Minerva</author>
+                    <publisher>Pubblicato per la prima volta in forma digitale su Repubblica.it</publisher>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <head>Nobel 2018: "Così abbiamo capito come battere il cancro"</head>
+            <p>A Stoccolma, sul podio il texano James Allison e il giapponese Tasuku Honjo. Che hanno scoperto come attivare il nostro sistema immunitario contro i tumori. E cambiato la storia della guerra al cancro</p>               
+         </front>
+        <body>
+            <div type="corpo_articolo">               
+                <p>
+                    STOCCOLMA. Quando il texano Jim Allison, sorriso aperto sulla faccia tonda e sorniona, 
+                    i capelli lunghi come un vecchio cantante country, e quella parlata strascicata a cui 
+                    ci hanno abituato i Bush - mentre dice che <q>"accidenti" dovrà pagare le tasse sui 
+                    soldi degli svedesi-</q>, e Tasuko Honjo, sottile, immobile, elegante, la testa 
+                    inclinata come in un perenne rispettoso omaggio sono saliti sul palco del Nobel Forum
+                    al Karolinska Institutet per spiegare al mondo perché il prossimo 10 dicembre
+                    riceveranno dalle mani del re di Svezia il premio Nobel per la Medicina e la 
+                    Fisiologia, si è visto plasticamente che la scienza o è universale o non è.
+                </p>
+                <p>
+                    <q>"E' un premio molto opportuno"</q>, dice Allison senza falsa modestia,
+                    <q>"basta vedere i successi nella terapia di un male come il melanoma che usa
+                    il nostro check point"</q>. <q>"Il lavoro di entrambi è stato complementare,
+                    come quello degli altri studiosi al lavoro sui check point"</q>, annuisce Honjo
+                    un po' più ecumenico.
+                </p>            
+                <p>
+                    Due scienziati così diversi, frutto di tradizioni accademiche così diverse,
+                    che si erano incontrati un paio di volte per caso prima di arrivare qui, eppure
+                    giunti alle medesime conclusioni; ad aprire, ognuno per suo conto, una nuova
+                    potentissima strada per combattere il cancro. Hanno capito che ci sono dei meccanismi
+                    molecolari che impediscono al nostro sistema immunitario di fermare un tumore,
+                    e che se si rimuovono questi blocchi si può tentare di arginare la malattia.
+                    Concetto complesso che l'Accademia di Svezia riassume con questa motivazione:
+                    <q>"I Premiati hanno mostrato come diverse strategie capaci di inibire i freni del
+                        sistema immunitario possano essere usate nelle cure contro il cancro”</q>.
+                    E Honjo commenta: <q>"Questa è la strada più potente ora.
+                        Ogni speranza è plausibile. Ora: in futuro vedremo"</q>.
+                </p>
+                <p>
+                    Scomparirà il cancro dal pianeta? E' la domanda che sembra obbligatorio porre a 
+                    che vince il premio Nobel. <q>"Alcuni tumori sono ormai curabili. Ma il cancro sarà
+                    sempre con noi"</q>, taglia corto il texano. <q>Quello che possiamo dire</q>, ragiona Honjo
+                    <q>è che da qui a trent'anni arriveremo a curare il tumore, e poi a curarlo ancora
+                    quando si ripresenta, e poi ancora"</q>.
+                    Allison e Honjo snocciolano alchimie immunitarie, cascate di dati su cascate 
+                    molecolari: con le questioni tecniche se la cavano meglio che non con le domande
+                    epocali. E' l'eleganza della scienza blasonata. Che ha una magia irresistibile,
+                    che scalda il cuore, portatrice com'è di una visione del mondo che oggi non piace: 
+                    universalità, condivisione, rigore, trasparenza, ma anche eleganza e sobrietà.
+                    E i malati che stanno meglio, a dimostrare che questi valori hanno un'interfaccia 
+                    più che concreta.
+                </p>
+                <p>
+                    Oggi la conosciamo, è la immunoncologia, che è già realtà per molte patologie 
+                    neoplastiche (il melanoma, il polmone, il rene e non solo), la quarta gamba della 
+                    guerra al cancro, ma fino a qualche anno fa l'idea di usare il nostro sistema
+                    immunitario per fermare la malattia era un'utopia di pochi visionari in giro per 
+                    il mondo che per decenni avevano lavorato intorno a questa idea, con diverse formule.
+                    Per primo ci aveva pensato il vecchio Steven Rosenberg nei suoi laboratori del
+                    National Cancer Institute a Bethesda, usava una strada del tutto diversa da 
+                    quella percorsa oggi, ma il pioniere dei pionieri era stato lui che non ha mai 
+                    avuto successo. Mentre camminava, invece, l'idea di Allison e Honjo e ci sono ormai 
+                    migliaia di malati che vivono oltre il cancro grazie ai farmaci nati da lì. Anche se,
+                    racconta Allison: <q>"Ci sono voluti anni per convincere un'industria a investire per
+                    portare in clinica la mia scoperta"</q>. Ma, scuotono entrambi la testa: 
+                    <q>"Mai pensato di lasciar perdere"</q>.
+                </p>
+                <p>
+                    I successi dell'immunoncologia , e di certo gli entusiasmi che ha suscitato 
+                    tra gli oncologi, sono tali che da qualche anno si aspettava che lo sguardo 
+                    dell'Accademia si posasse sui cosiddetti checkpoint, gli ingranaggi molecolari
+                    che lasciano passare il cancro. Anche se, sorridevano gli addetti ai lavori, 
+                    cercando di spegnere i nostri entusiasmi: l'Accademia ha tempi lunghi, è troppo
+                    presto perché premino i pionieri dell'immunoncologia. E invece quest'anno è accaduto.
+                </p>
+                <p>
+                    Ma l'Accademia fa politica. E anche quest'anno non è venuta meno.
+                    Premiando le nuove armi contro il cancro, gli uomini e le donne del Karolinska
+                    hanno voluto dire due cose ai governi: innanzitutto che la ricerca e la scienza 
+                    sono le uniche armi contro il grande male; e quindi che lasciare queste armi nelle 
+                    mani della ricerca privata, come sta accadendo un po' ovunque coi tagli alla ricerca 
+                    nelle pubbliche istituzioni, significa abdicare a un dovere fondamentale degli 
+                    stati nei confronti dei cittadini.
+                </p>
+                <p>Non è vero, sembrano dire gli accademici scandinavi, che la medicina è oggi
+                    appannaggio delle aziende e va avanti per i fatti suoi. Allison e Honjo sono due 
+                    accademici che hanno pensato nei loro laboratori e avuto idee che poi, certamente,
+                    è toccato alle aziende sviluppare per far diventare farmaco; ma è nei liberi
+                    laboratori accademici che vengono le idee che cambiano il mondo: non c'è alternativa.
+                </p>
+                <p>
+                    E poi, come corollario, il secondo messaggio ai governi: le terapie importanti e
+                    innovative ci sono, la guerra si può combattere e persino vincere, qualche volta:
+                    a nessuno venga in mente di negare i farmaci ai malati perché costano troppo o 
+                    sono troppo complessi da maneggiare. I due player, governi e industrie, trovino 
+                    una partnership virtuosa, è il monito del Nobel 2018: non c'è alternativa.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
